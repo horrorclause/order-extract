@@ -1,5 +1,5 @@
 # order-extract
-This is meant to extract the grauity and other key information from event checks
+This is meant to extract the gratuity and other key information from event checks
 that are typically used in Marriott hotels for their catering events.
 
 This simple script takes in the event check(pdf) and the template for the gratuity sheet (excel)
